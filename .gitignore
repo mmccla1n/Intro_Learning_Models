@@ -1,0 +1,6 @@
+
+# Virtual environments
+my_venv/
+my_venv/bin/
+my_venv/include/
+my_venv/lib/
