@@ -1,0 +1,25 @@
+- Copied readme from class and pasted to the readme for this repo.
+- Creating virtual environment, python3 -m venv my_venv
+- Upgrading current version of pip, pip install --upgrade pip
+- Installing PyTorch, pip install torch torchvision torchaudio
+- Verifying installation of PyTorch
+    python -c "import torch; print(torch.__version__)"
+    2.5.1
+- Installing Jupyter Notebooks, pip install jupyter
+- Following steps to Install Jupyter extension in VSCode
+- Installing kernel 'ipykernel' to support Jupyter.. Requirements already satisfied
+- Creating jupyter file
+    - created directoy Jupter
+        - touched file 'jup_file'.ipynb inside
+- Opening jup_file in VSCode
+    - virtual enviornment created not showing up as an option for kernel selection
+        - researching whats needed
+
+- Was able to select from jupyter Kernel, a mix bof restarting vscode and using instrution
+ to install the kernel, install a new kernel:
+
+    ipython kernel install --user --name=my_venv
+
+- Verified Jupyter file is working
+- Created requirements.txt file
+
