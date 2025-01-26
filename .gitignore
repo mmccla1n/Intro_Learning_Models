@@ -1,6 +1,41 @@
 
-# Virtual environments
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
 my_venv/
-my_venv/bin/
-my_venv/include/
-my_venv/lib/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Generated files
+*.png
+*.jpeg
+*.jpg
+
+# User-specific files
+*.env
+*.idea/
+*.vscode/
+tree_struct.txt
+
+# Cache and temporary files
+*.cache
+*.tmp
+*.swp
+*.swo
+
+# Build directories
+build/
+dist/
+*.egg-info/
