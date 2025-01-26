@@ -22,4 +22,5 @@
 
 - Verified Jupyter file is working
 - Created requirements.txt file
+- WOrking thru READ.me instructions, and researching instructions at site https://pytorch.org/docs/stable/torch.html
 
